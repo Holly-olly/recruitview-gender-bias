@@ -1,0 +1,37 @@
+# Raw dataset — 15 GB, never commit (download separately from HuggingFace)
+recruitview_train/
+
+# Internal planning docs & working context — public roadmap lives in README
+CLAUDE.md
+docs/*_plan.md
+.claude/
+
+# RecruitView-derived data — gated dataset (CC BY-NC 4.0); keep local, regenerate via src/
+data/recruitview_full.csv
+outputs/stage1/recruitview_with_set.csv
+# Full manual gender-coding log (protected); published slim as data/gender_by_response.csv
+data/recruitview_gender.csv
+
+# Local-only working areas
+scratch/
+archive/
+reviews/
+docs/
+
+# Fitted posterior objects — large binary, reproducible from src/stage1_fit.py
+outputs/stage1/idata/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Keep agent config local
+.claude/settings.local.json
+.env
+

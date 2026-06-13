@@ -1,0 +1,28 @@
+# recruitview-gender-bias — Python dependencies
+# Python 3.14 · install: pip install -r requirements.txt
+
+# Data
+pandas==3.0.3
+numpy==2.4.6
+datasets==4.8.5        # only needed to regenerate from raw recruitview_train/
+
+# Stats & plotting
+scipy==1.17.1
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# Stage 1 — mixed-model variance decomposition (src/stage1_fit.py)
+# Bayesian crossed-RE models + mandatory Student-t robust branch (G-theory).
+bambi==0.18.0          # model formulae over PyMC
+pymc==6.0.1
+pytensor==3.0.5        # PyMC backend (pulled by pymc; pinned for reproducibility)
+numba==0.65.1          # JIT for the sampler (pulled by pytensor; pinned)
+arviz==1.1.0           # posterior summaries / diagnostics
+h5netcdf==1.8.1        # InferenceData netCDF persistence
+h5py==3.16.0           # h5netcdf backend
+
+# Notebooks
+notebook==7.5.7
+nbconvert==7.17.1
+nbformat==5.10.4
+ipykernel==7.2.0

@@ -1,0 +1,35 @@
+MIT License — applies to the SOURCE CODE in this repository (src/, notebooks/).
+
+NOTE ON DATA
+This repository does NOT redistribute the RecruitView dataset. RecruitView is
+licensed separately under CC BY-NC 4.0 with gated access
+(https://huggingface.co/datasets/AI4A-lab/RecruitView) and must be obtained from
+its authors. The gender annotations (data/gender_by_user.csv, data/gender_by_response.csv)
+and the aggregate analysis outputs (outputs/) are derivative works provided for
+NON-COMMERCIAL ACADEMIC RESEARCH ONLY, under CC BY-NC 4.0, and must be used with
+attribution to the RecruitView authors (Gupta et al., 2025, arXiv:2512.00450).
+This project is research into how machines perceive behaviour; it is not a hiring
+tool and must not be used for automated employment decisions or to profile or
+re-identify individuals.
+
+---
+
+Copyright (c) 2026 Olga Maslenkova
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-06-11 19:11:31",
+  "seed": 1,
+  "draws": 1000,
+  "tune": 1000,
+  "chains": 4,
+  "n_q_list": [
+    4,
+    6,
+    17
+  ],
+  "n_q_headline": 6,
+  "residual_convention": "scale-based primary; marginal t-variance sensitivity",
+  "versions": {
+    "bambi": "0.18.0",
+    "arviz": "1.1.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "python": "3.14.0"
+  }
+}
