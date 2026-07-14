@@ -1,0 +1,158 @@
+user_no,question_id,question,id,duration,keep,reason
+6,22,Why should a company hire you?,724,medium,False,dropped: earlier retake
+6,22,Why should a company hire you?,732,medium,True,kept: latest id in group
+10,29,Do you have a good work ethic?,920,medium,False,dropped: earlier retake
+10,29,Do you have a good work ethic?,925,medium,True,kept: latest id in group
+12,1,Introduce yourself,131,medium,False,dropped: earlier retake
+12,1,Introduce yourself,147,medium,True,kept: latest id in group
+16,1,Introduce yourself,34,long,False,dropped: earlier retake
+16,1,Introduce yourself,65,long,True,kept: latest id in group
+33,76,Tell me about yourself,240,long,False,dropped: earlier retake
+33,76,Tell me about yourself,349,medium,True,kept: latest id in group
+46,76,Tell me about yourself,201,short,False,dropped: earlier retake
+46,76,Tell me about yourself,226,short,True,kept: latest id in group
+48,47,What motivates you to perform at your best in the workplace?,1344,long,False,dropped: earlier retake
+48,47,What motivates you to perform at your best in the workplace?,1350,long,False,dropped: earlier retake
+48,47,What motivates you to perform at your best in the workplace?,1352,long,True,kept: latest id in group
+51,30,Tell me about a time when you recognized and capitalized on the unique strengths of individual team members to achieve a common goal.,975,long,False,dropped: earlier retake
+51,30,Tell me about a time when you recognized and capitalized on the unique strengths of individual team members to achieve a common goal.,985,long,True,kept: latest id in group
+53,47,What motivates you to perform at your best in the workplace?,1343,medium,False,dropped: earlier retake
+53,47,What motivates you to perform at your best in the workplace?,1345,medium,True,kept: latest id in group
+54,1,Introduce yourself,173,short,False,dropped: earlier retake
+54,1,Introduce yourself,181,short,True,kept: latest id in group
+56,1,Introduce yourself,38,long,False,dropped: earlier retake
+56,1,Introduce yourself,57,long,True,kept: latest id in group
+59,1,Introduce yourself,123,short,False,dropped: earlier retake
+59,1,Introduce yourself,127,short,True,kept: latest id in group
+62,42,How did you handle disagreements?,1230,short,False,dropped: earlier retake
+62,42,How did you handle disagreements?,1237,short,True,kept: latest id in group
+66,42,How did you handle disagreements?,1222,medium,False,dropped: earlier retake
+66,42,How did you handle disagreements?,1246,medium,True,kept: latest id in group
+68,26,Can you give an example of a time when you had to take the initiative to solve a problem without being asked?,825,short,False,dropped: earlier retake
+68,26,Can you give an example of a time when you had to take the initiative to solve a problem without being asked?,827,short,False,dropped: earlier retake
+68,26,Can you give an example of a time when you had to take the initiative to solve a problem without being asked?,845,short,True,kept: latest id in group
+70,10,Can you give an example of a time when you successfully implemented a solution to improve a process or procedure?,386,short,False,dropped: earlier retake
+70,10,Can you give an example of a time when you successfully implemented a solution to improve a process or procedure?,388,short,True,kept: latest id in group
+71,44,What makes you happy?,1272,short,False,dropped: earlier retake
+71,44,What makes you happy?,1280,short,True,kept: latest id in group
+75,46,What are you passionate about?,1318,long,False,dropped: earlier retake
+75,46,What are you passionate about?,1322,long,True,kept: latest id in group
+81,28,What is your dream company like?,897,short,False,dropped: earlier retake
+81,28,What is your dream company like?,916,short,True,kept: latest id in group
+87,36,Is there anything that makes you different from other candidates?,1096,long,False,dropped: earlier retake
+87,36,Is there anything that makes you different from other candidates?,1102,long,True,kept: latest id in group
+90,1,Introduce yourself,66,short,False,dropped: earlier retake
+90,1,Introduce yourself,82,short,True,kept: latest id in group
+92,30,Tell me about a time when you recognized and capitalized on the unique strengths of individual team members to achieve a common goal.,971,long,False,dropped: earlier retake
+92,30,Tell me about a time when you recognized and capitalized on the unique strengths of individual team members to achieve a common goal.,977,long,True,kept: latest id in group
+94,55,Can you give an example of a time when you had to resolve a disagreement or misunderstanding within a team?,1550,long,False,dropped: earlier retake
+94,55,Can you give an example of a time when you had to resolve a disagreement or misunderstanding within a team?,1568,long,True,kept: latest id in group
+103,2,What are your greatest strengths and weaknesses?,652,medium,False,dropped: earlier retake
+103,2,What are your greatest strengths and weaknesses?,657,medium,True,kept: latest id in group
+106,19,Tell me about a time when you were not satisfied with your performance?,609,medium,False,dropped: earlier retake
+106,19,Tell me about a time when you were not satisfied with your performance?,633,medium,True,kept: latest id in group
+114,9,What motivates you?,1994,long,False,dropped: earlier retake
+114,9,What motivates you?,2006,long,True,kept: latest id in group
+115,26,Can you give an example of a time when you had to take the initiative to solve a problem without being asked?,837,medium,False,dropped: earlier retake
+115,26,Can you give an example of a time when you had to take the initiative to solve a problem without being asked?,842,medium,True,kept: latest id in group
+132,23,Are you reliable? or Can I trust you with responsibilities?,750,medium,False,dropped: earlier retake
+132,23,Are you reliable? or Can I trust you with responsibilities?,756,medium,True,kept: latest id in group
+135,76,Tell me about yourself,309,short,False,dropped: earlier retake
+135,76,Tell me about yourself,322,short,True,kept: latest id in group
+145,76,Tell me about yourself,234,medium,False,dropped: earlier retake
+145,76,Tell me about yourself,241,medium,True,kept: latest id in group
+151,31,Tell me about a time when you successfully resolved a long-standing issue that had been impeding progress within your team or organization.,996,long,False,dropped: earlier retake
+151,31,Tell me about a time when you successfully resolved a long-standing issue that had been impeding progress within your team or organization.,997,long,True,kept: latest id in group
+163,1,Introduce yourself,9,medium,False,dropped: earlier retake
+163,1,Introduce yourself,47,short,False,dropped: earlier retake
+163,1,Introduce yourself,53,short,False,dropped: earlier retake
+163,1,Introduce yourself,107,medium,True,kept: latest id in group
+174,76,Tell me about yourself,313,long,False,dropped: earlier retake
+174,76,Tell me about yourself,321,long,True,kept: latest id in group
+176,46,What are you passionate about?,1335,medium,False,dropped: earlier retake
+176,46,What are you passionate about?,1339,medium,True,kept: latest id in group
+185,28,What is your dream company like?,901,medium,False,dropped: earlier retake
+185,28,What is your dream company like?,914,short,True,kept: latest id in group
+187,42,How did you handle disagreements?,1224,medium,False,dropped: earlier retake
+187,42,How did you handle disagreements?,1242,short,True,kept: latest id in group
+187,43,"Tell me about a time where you experienced difficulty while working on a project, how did you handle it?",1268,medium,False,dropped: earlier retake
+187,43,"Tell me about a time where you experienced difficulty while working on a project, how did you handle it?",1269,medium,True,kept: latest id in group
+192,15,"Describe a project where you took the lead in implementing a new strategy or process, driving positive change within your team or organization.",497,medium,False,dropped: earlier retake
+192,15,"Describe a project where you took the lead in implementing a new strategy or process, driving positive change within your team or organization.",515,medium,True,kept: latest id in group
+196,1,Introduce yourself,141,short,False,dropped: earlier retake
+196,1,Introduce yourself,148,short,True,kept: latest id in group
+200,58,What has been your greatest failure?,1612,long,False,dropped: earlier retake
+200,58,What has been your greatest failure?,1625,long,False,dropped: earlier retake
+200,58,What has been your greatest failure?,1632,long,True,kept: latest id in group
+205,13,What was the toughest decision you ever had to make?,450,long,False,dropped: earlier retake
+205,13,What was the toughest decision you ever had to make?,452,long,True,kept: latest id in group
+209,7,How do you work under pressure? Can you handle the pressure?,1847,short,False,dropped: earlier retake
+209,7,How do you work under pressure? Can you handle the pressure?,1848,short,True,kept: latest id in group
+210,15,"Describe a project where you took the lead in implementing a new strategy or process, driving positive change within your team or organization.",499,long,False,dropped: earlier retake
+210,15,"Describe a project where you took the lead in implementing a new strategy or process, driving positive change within your team or organization.",511,long,True,kept: latest id in group
+216,53,What do you think is an ideal work environment?,1504,long,False,dropped: earlier retake
+216,53,What do you think is an ideal work environment?,1514,long,True,kept: latest id in group
+219,1,Introduce yourself,15,short,False,dropped: earlier retake
+219,1,Introduce yourself,35,short,True,kept: latest id in group
+220,52,What are you most proud of?,1480,short,False,dropped: earlier retake
+220,52,What are you most proud of?,1493,short,True,kept: latest id in group
+223,1,Introduce yourself,50,long,False,dropped: earlier retake
+223,1,Introduce yourself,133,long,True,kept: latest id in group
+223,54,Tell me about a project you initiated or led that had a positive impact on your team or organization.,1527,long,False,dropped: earlier retake
+223,54,Tell me about a project you initiated or led that had a positive impact on your team or organization.,1546,long,True,kept: latest id in group
+226,76,Tell me about yourself,332,long,False,dropped: earlier retake
+226,76,Tell me about yourself,358,long,True,kept: latest id in group
+230,56,How do you deal with criticism?,1572,medium,False,dropped: earlier retake
+230,56,How do you deal with criticism?,1582,medium,True,kept: latest id in group
+231,73,Tell me about a time when you proposed an innovative idea that significantly improved team efficiency or productivity.,1921,short,False,dropped: earlier retake
+231,73,Tell me about a time when you proposed an innovative idea that significantly improved team efficiency or productivity.,1929,short,True,kept: latest id in group
+233,76,Tell me about yourself,285,medium,False,dropped: earlier retake
+233,76,Tell me about yourself,290,medium,True,kept: latest id in group
+242,32,How do you improve your knowledge?,1019,long,False,dropped: earlier retake
+242,32,How do you improve your knowledge?,1029,long,True,kept: latest id in group
+245,1,Introduce yourself,14,short,False,dropped: earlier retake
+245,1,Introduce yourself,77,medium,True,kept: latest id in group
+251,76,Tell me about yourself,288,long,False,dropped: earlier retake
+251,76,Tell me about yourself,303,long,True,kept: latest id in group
+253,61,Tell me about a time when you had to work on a project outside of your comfort zone. How did you handle it?,1699,long,False,dropped: earlier retake
+253,61,Tell me about a time when you had to work on a project outside of your comfort zone. How did you handle it?,1711,long,True,kept: latest id in group
+264,39,What do you do to ensure that your task is completed effectively?,1141,short,False,dropped: earlier retake
+264,39,What do you do to ensure that your task is completed effectively?,1155,short,True,kept: latest id in group
+265,1,Introduce yourself,69,long,False,dropped: earlier retake
+265,1,Introduce yourself,73,long,True,kept: latest id in group
+266,76,Tell me about yourself,204,short,False,dropped: earlier retake
+266,76,Tell me about yourself,210,short,True,kept: latest id in group
+269,33,What are your hobbies?,1037,short,False,dropped: earlier retake
+269,33,What are your hobbies?,1039,short,True,kept: latest id in group
+277,1,Introduce yourself,4,medium,False,dropped: earlier retake
+277,1,Introduce yourself,145,medium,True,kept: latest id in group
+277,73,Tell me about a time when you proposed an innovative idea that significantly improved team efficiency or productivity.,1938,medium,False,dropped: earlier retake
+277,73,Tell me about a time when you proposed an innovative idea that significantly improved team efficiency or productivity.,1940,medium,True,kept: latest id in group
+294,1,Introduce yourself,67,long,False,dropped: earlier retake
+294,1,Introduce yourself,81,long,True,kept: latest id in group
+294,76,Tell me about yourself,359,medium,False,dropped: earlier retake
+294,76,Tell me about yourself,366,medium,False,dropped: earlier retake
+294,76,Tell me about yourself,369,medium,True,kept: latest id in group
+296,76,Tell me about yourself,220,short,False,dropped: earlier retake
+296,76,Tell me about yourself,314,short,True,kept: latest id in group
+297,51,Describe a situation where you had to adapt to a change in the work environment.,1457,long,False,dropped: earlier retake
+297,51,Describe a situation where you had to adapt to a change in the work environment.,1458,long,True,kept: latest id in group
+300,1,Introduce yourself,48,short,False,dropped: earlier retake
+300,1,Introduce yourself,120,short,True,kept: latest id in group
+301,1,Introduce yourself,99,short,False,dropped: earlier retake
+301,1,Introduce yourself,106,short,True,kept: latest id in group
+304,1,Introduce yourself,61,long,False,dropped: earlier retake
+304,1,Introduce yourself,103,long,True,kept: latest id in group
+306,76,Tell me about yourself,230,medium,False,dropped: earlier retake
+306,76,Tell me about yourself,302,medium,True,kept: latest id in group
+308,1,Introduce yourself,90,short,False,dropped: earlier retake
+308,1,Introduce yourself,125,short,True,kept: latest id in group
+314,1,Introduce yourself,6,medium,False,dropped: earlier retake
+314,1,Introduce yourself,13,medium,True,kept: latest id in group
+318,76,Tell me about yourself,331,short,False,dropped: earlier retake
+318,76,Tell me about yourself,360,short,True,kept: latest id in group
+321,30,Tell me about a time when you recognized and capitalized on the unique strengths of individual team members to achieve a common goal.,973,medium,False,dropped: earlier retake
+321,30,Tell me about a time when you recognized and capitalized on the unique strengths of individual team members to achieve a common goal.,979,medium,True,kept: latest id in group
+331,76,Tell me about yourself,227,medium,False,dropped: earlier retake
+331,76,Tell me about yourself,293,long,False,dropped: earlier retake
+331,76,Tell me about yourself,368,long,True,kept: latest id in group

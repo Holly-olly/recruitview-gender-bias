@@ -1,0 +1,77 @@
+question_id,question,ote_openness,ote_conscientiousness,ote_extraversion,ote_agreeableness,ote_neuroticism,best_construct,best_ote,high_openness,high_conscientiousness,high_extraversion,high_agreeableness,high_neuroticism,n_high_traits,high_traits
+1,Introduce yourself,0.204,0.054,0.235,0.106,0.061,extraversion,0.235,False,False,True,False,False,1,extraversion
+2,What are your greatest strengths and weaknesses?,0.358,0.321,0.312,0.435,0.372,agreeableness,0.435,True,True,True,True,True,5,"openness, conscientiousness, extraversion, agreeableness, neuroticism"
+3,How do you handle changes or unexpected situations in the workplace?,0.086,0.121,0.229,0.181,0.149,extraversion,0.229,False,False,False,False,False,0,
+4,What is your biggest achievement so far?,0.173,0.263,0.155,0.128,0.105,conscientiousness,0.263,False,True,False,False,False,1,conscientiousness
+5,Tell me about a time when you went above and beyond the call of duty to achieve a goal or deliver results.,0.149,0.244,0.148,0.109,0.048,conscientiousness,0.244,False,False,False,False,False,0,
+6,Give me an example of your creativity.,0.33,0.24,0.178,0.179,0.183,openness,0.33,True,False,False,False,False,1,openness
+7,How do you work under pressure? Can you handle the pressure?,0.047,0.106,0.029,0.065,0.072,conscientiousness,0.106,False,False,False,False,False,0,
+8,"If you won a Rs.10-crore lottery, would you still work?",0.021,0.057,-0.033,0.029,0.011,conscientiousness,0.057,False,False,False,False,False,0,
+9,What motivates you?,0.304,0.247,0.364,0.316,0.285,extraversion,0.364,True,False,True,True,True,4,"openness, extraversion, agreeableness, neuroticism"
+10,Can you give an example of a time when you successfully implemented a solution to improve a process or procedure?,0.07,0.148,0.031,0.08,0.0,conscientiousness,0.148,False,False,False,False,False,0,
+11,Tell me about a time when you had to step into a role outside of your expertise to support the team's objectives.,0.139,0.206,0.224,0.15,0.006,extraversion,0.224,False,False,False,False,False,0,
+12,How do you respond to change?,0.131,0.082,0.21,0.214,0.156,agreeableness,0.214,False,False,False,False,False,0,
+13,What was the toughest decision you ever had to make?,0.113,0.095,0.073,0.18,0.114,agreeableness,0.18,False,False,False,False,False,0,
+14,What is your greatest fear?,0.179,0.125,0.17,0.192,0.357,neuroticism,0.357,False,False,False,False,True,1,neuroticism
+15,"Describe a project where you took the lead in implementing a new strategy or process, driving positive change within your team or organization.",0.231,0.207,0.187,0.149,0.12,openness,0.231,False,False,False,False,False,0,
+16,Describe a situation where you identified a problem before it became significant. What steps did you take to address it?,0.111,0.134,0.115,0.132,0.189,neuroticism,0.189,False,False,False,False,True,1,neuroticism
+17,How would you rate yourself on a scale of 1 to 10?,0.249,0.219,0.27,0.327,0.189,agreeableness,0.327,True,False,True,True,True,4,"openness, extraversion, agreeableness, neuroticism"
+18,How do you handle stress and anxiety?,0.107,0.191,0.121,0.134,0.41,neuroticism,0.41,False,False,False,False,True,1,neuroticism
+19,Tell me about a time when you were not satisfied with your performance?,0.071,0.211,0.058,0.131,0.122,conscientiousness,0.211,False,False,False,False,False,0,
+20,Can you give an example of a time when you successfully managed multiple competing priorities?,0.131,0.214,0.081,0.147,0.053,conscientiousness,0.214,False,False,False,False,False,0,
+21,Where do you see yourself in the next 5 years?,0.22,0.145,0.193,0.125,0.146,openness,0.22,False,False,False,False,False,0,
+22,Why should a company hire you?,0.127,0.123,0.146,0.113,0.025,extraversion,0.146,False,False,False,False,False,0,
+23,Are you reliable? or Can I trust you with responsibilities?,0.054,0.288,0.174,0.263,0.088,conscientiousness,0.288,False,True,False,True,False,2,"conscientiousness, agreeableness"
+24,What makes you angry?,0.159,0.09,0.24,0.175,0.379,neuroticism,0.379,False,False,True,False,True,2,"extraversion, neuroticism"
+25,Can you give an example of a time when you had to persuade others to adopt your ideas or proposals?,0.249,0.171,0.198,0.251,0.114,agreeableness,0.251,True,False,False,True,False,2,"openness, agreeableness"
+26,Can you give an example of a time when you had to take the initiative to solve a problem without being asked?,0.094,0.235,0.146,0.161,0.137,conscientiousness,0.235,False,False,False,False,False,0,
+27,Are you open to take risks? or Do you like experimenting?,0.398,0.087,0.186,0.196,0.125,openness,0.398,True,False,False,False,False,1,openness
+28,What is your dream company like?,0.256,0.059,0.068,0.158,0.071,openness,0.256,True,False,False,False,False,1,openness
+29,Do you have a good work ethic?,0.255,0.345,0.267,0.295,0.107,conscientiousness,0.345,True,True,True,True,False,4,"openness, conscientiousness, extraversion, agreeableness"
+30,Tell me about a time when you recognized and capitalized on the unique strengths of individual team members to achieve a common goal.,0.228,0.295,0.203,0.311,0.07,agreeableness,0.311,False,True,False,True,False,2,"conscientiousness, agreeableness"
+31,Tell me about a time when you successfully resolved a long-standing issue that had been impeding progress within your team or organization.,0.031,0.109,0.039,0.109,0.056,agreeableness,0.109,False,False,False,False,False,0,
+32,How do you improve your knowledge?,0.12,0.268,0.072,0.034,0.024,conscientiousness,0.268,False,True,False,False,False,1,conscientiousness
+33,What are your hobbies?,0.31,0.12,0.198,0.161,0.181,openness,0.31,True,False,False,False,False,1,openness
+34,Can you give an example of a time when you led by example to promote a positive work culture or values?,0.296,0.317,0.294,0.276,0.179,conscientiousness,0.317,True,True,True,True,False,4,"openness, conscientiousness, extraversion, agreeableness"
+35,"Describe a project where you encouraged open communication and feedback among team members, leading to improved collaboration and outcomes.",0.414,0.174,0.232,0.278,0.071,openness,0.414,True,False,False,True,False,2,"openness, agreeableness"
+36,Is there anything that makes you different from other candidates?,0.218,0.211,0.354,0.287,0.175,extraversion,0.354,False,False,True,True,False,2,"extraversion, agreeableness"
+37,Can you describe your time management skills?,0.201,0.309,0.185,0.227,0.139,conscientiousness,0.309,False,True,False,False,False,1,conscientiousness
+38,Can you describe a situation where you had to overcome a significant challenge in a team setting?,0.124,0.153,0.175,0.175,0.157,extraversion,0.175,False,False,False,False,False,0,
+39,What do you do to ensure that your task is completed effectively?,0.074,0.281,0.077,0.156,0.043,conscientiousness,0.281,False,True,False,False,False,1,conscientiousness
+40,Can you give an example of a time when you demonstrated leadership skills?,0.146,0.384,0.249,0.243,0.144,conscientiousness,0.384,False,True,True,True,False,3,"conscientiousness, extraversion, agreeableness"
+41,What are the three things that are most important for you in a job?,0.258,0.3,0.195,0.29,0.119,conscientiousness,0.3,True,True,False,True,False,3,"openness, conscientiousness, agreeableness"
+42,How did you handle disagreements?,0.087,0.177,0.089,0.263,0.116,agreeableness,0.263,False,False,False,True,False,1,agreeableness
+43,"Tell me about a time where you experienced difficulty while working on a project, how did you handle it?",0.122,0.208,0.095,0.146,0.204,conscientiousness,0.208,False,False,False,False,True,1,neuroticism
+44,What makes you happy?,0.289,0.158,0.284,0.282,0.278,openness,0.289,True,False,True,True,True,4,"openness, extraversion, agreeableness, neuroticism"
+45,"Can you give an example of a situation where you mentored a junior colleague, helping them grow professionally and personally?",0.118,0.266,0.317,0.222,0.126,extraversion,0.317,False,True,True,False,False,2,"conscientiousness, extraversion"
+46,What are you passionate about?,0.337,0.266,0.217,0.246,0.238,openness,0.337,True,True,False,True,True,4,"openness, conscientiousness, agreeableness, neuroticism"
+47,What motivates you to perform at your best in the workplace?,0.227,0.373,0.356,0.319,0.204,conscientiousness,0.373,False,True,True,True,True,4,"conscientiousness, extraversion, agreeableness, neuroticism"
+48,Describe a time when you proactively sought out opportunities to develop new skills or knowledge relevant to your role.,0.283,0.334,0.344,0.171,0.116,extraversion,0.344,True,True,True,False,False,3,"openness, conscientiousness, extraversion"
+49,Can you give an example of a situation where you leveraged technology or automation to streamline a process and increase efficiency?,0.07,0.117,0.076,0.019,0.064,conscientiousness,0.117,False,False,False,False,False,0,
+50,Share a story of a project where you collaborated with a cross-functional team to deliver exceptional results.,0.242,0.148,0.172,0.127,0.035,openness,0.242,False,False,False,False,False,0,
+51,Describe a situation where you had to adapt to a change in the work environment.,0.217,0.197,0.253,0.2,0.204,extraversion,0.253,False,False,True,False,True,2,"extraversion, neuroticism"
+52,What are you most proud of?,0.256,0.281,0.169,0.289,0.161,agreeableness,0.289,True,True,False,True,False,3,"openness, conscientiousness, agreeableness"
+53,What do you think is an ideal work environment?,0.338,0.283,0.26,0.304,0.183,openness,0.338,True,True,True,True,False,4,"openness, conscientiousness, extraversion, agreeableness"
+54,Tell me about a project you initiated or led that had a positive impact on your team or organization.,0.184,0.138,0.091,0.086,0.127,openness,0.184,False,False,False,False,False,0,
+55,Can you give an example of a time when you had to resolve a disagreement or misunderstanding within a team?,0.06,0.19,0.119,0.219,0.131,agreeableness,0.219,False,False,False,False,False,0,
+56,How do you deal with criticism?,0.083,0.152,0.141,0.146,0.222,neuroticism,0.222,False,False,False,False,True,1,neuroticism
+57,Tell me about a time when you failed to meet a goal or objective. How did you handle it?,0.121,0.18,0.107,0.157,0.189,neuroticism,0.189,False,False,False,False,True,1,neuroticism
+58,What has been your greatest failure?,0.123,0.216,0.117,0.163,0.198,conscientiousness,0.216,False,False,False,False,True,1,neuroticism
+59,Tell me about a time when you had to resolve a conflict with a coworker or team member.,0.057,0.169,0.191,0.16,0.184,extraversion,0.191,False,False,False,False,False,0,
+60,Share a story of a project where you led the team in developing and implementing a solution that resulted in significant cost savings or revenue growth.,0.127,0.038,0.019,0.008,-0.082,openness,0.127,False,False,False,False,False,0,
+61,Tell me about a time when you had to work on a project outside of your comfort zone. How did you handle it?,0.207,0.168,0.125,0.129,0.132,openness,0.207,False,False,False,False,False,0,
+62,Are you an organized person?,0.202,0.263,0.186,0.2,0.119,conscientiousness,0.263,False,True,False,False,False,1,conscientiousness
+63,What do you always regret? Or Do you have any regrets?,0.13,0.131,0.099,0.15,0.196,neuroticism,0.196,False,False,False,False,True,1,neuroticism
+64,Share a story of how you took ownership of a project that was struggling and turned it into a success through your initiative.,0.19,0.161,0.099,0.103,0.077,openness,0.19,False,False,False,False,False,0,
+65,Can you give an example of a situation where you successfully motivated a disengaged team member to contribute effectively to a project?,0.075,0.261,0.26,0.216,0.215,conscientiousness,0.261,False,False,True,False,True,2,"extraversion, neuroticism"
+66,How do you learn new skills?,0.156,0.253,0.129,0.073,0.138,conscientiousness,0.253,False,False,False,False,False,0,
+67,Describe a situation where you had to prioritize tasks under tight deadlines.,0.16,0.209,0.141,0.18,0.101,conscientiousness,0.209,False,False,False,False,False,0,
+68,How quickly do you adapt to new technology?,0.107,0.076,0.046,0.035,-0.018,openness,0.107,False,False,False,False,False,0,
+69,Can you give an example of a time when you facilitated a productive team meeting or discussion?,0.149,0.261,0.246,0.219,0.123,conscientiousness,0.261,False,False,True,False,False,1,extraversion
+70,Describe a project where you collaborated with stakeholders to define the problem and develop a solution that met everyone's needs.,0.269,0.143,0.103,0.232,0.098,openness,0.269,True,False,False,False,False,1,openness
+71,What is your dream job like?,0.213,0.155,0.091,0.137,0.113,openness,0.213,False,False,False,False,False,0,
+72,What are your weaknesses?,0.31,0.191,0.284,0.359,0.394,neuroticism,0.394,True,False,True,True,True,4,"openness, extraversion, agreeableness, neuroticism"
+73,Tell me about a time when you proposed an innovative idea that significantly improved team efficiency or productivity.,0.085,0.128,0.059,0.061,-0.038,conscientiousness,0.128,False,False,False,False,False,0,
+74,Can you give an example of a time when you coached or mentored a colleague to help them achieve their goals?,0.132,0.32,0.253,0.234,0.189,conscientiousness,0.32,False,True,True,False,True,3,"conscientiousness, extraversion, neuroticism"
+75,"Share a story of a time when you rallied your team during a crisis, fostering resilience and determination.",0.191,0.191,0.193,0.197,0.176,agreeableness,0.197,False,False,False,False,False,0,
+76,Tell me about yourself,0.219,0.156,0.187,0.23,0.197,agreeableness,0.23,False,False,False,False,True,1,neuroticism

@@ -11,7 +11,7 @@ scipy==1.17.1
 matplotlib==3.10.9
 seaborn==0.13.2
 
-# Stage 1 — mixed-model variance decomposition (src/stage1_fit.py)
+# Stage 1 — mixed-model variance decomposition (archive/legacy_src_20260712/stage1_fit.py)
 # Bayesian crossed-RE models + mandatory Student-t robust branch (G-theory).
 bambi==0.18.0          # model formulae over PyMC
 pymc==6.0.1

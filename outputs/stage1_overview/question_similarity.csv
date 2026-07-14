@@ -1,0 +1,77 @@
+question_id,question,nearest_qid,nearest_sim,nearest_question
+2,What are your greatest strengths and weaknesses?,72,0.833,What are your weaknesses?
+72,What are your weaknesses?,2,0.833,What are your greatest strengths and weaknesses?
+43,"Tell me about a time where you experienced difficulty while working on a project, how did you handle it?",61,0.773,Tell me about a time when you had to work on a project outside of your comfort zone. How did you handle it?
+61,Tell me about a time when you had to work on a project outside of your comfort zone. How did you handle it?,43,0.773,"Tell me about a time where you experienced difficulty while working on a project, how did you handle it?"
+28,What is your dream company like?,71,0.758,What is your dream job like?
+71,What is your dream job like?,28,0.758,What is your dream company like?
+64,Share a story of how you took ownership of a project that was struggling and turned it into a success through your initiative.,60,0.743,Share a story of a project where you led the team in developing and implementing a solution that resulted in significant cost savings or revenue growth.
+60,Share a story of a project where you led the team in developing and implementing a solution that resulted in significant cost savings or revenue growth.,64,0.743,Share a story of how you took ownership of a project that was struggling and turned it into a success through your initiative.
+47,What motivates you to perform at your best in the workplace?,9,0.723,What motivates you?
+9,What motivates you?,47,0.723,What motivates you to perform at your best in the workplace?
+59,Tell me about a time when you had to resolve a conflict with a coworker or team member.,55,0.719,Can you give an example of a time when you had to resolve a disagreement or misunderstanding within a team?
+55,Can you give an example of a time when you had to resolve a disagreement or misunderstanding within a team?,59,0.719,Tell me about a time when you had to resolve a conflict with a coworker or team member.
+45,"Can you give an example of a situation where you mentored a junior colleague, helping them grow professionally and personally?",74,0.718,Can you give an example of a time when you coached or mentored a colleague to help them achieve their goals?
+74,Can you give an example of a time when you coached or mentored a colleague to help them achieve their goals?,45,0.718,"Can you give an example of a situation where you mentored a junior colleague, helping them grow professionally and personally?"
+54,Tell me about a project you initiated or led that had a positive impact on your team or organization.,15,0.71,"Describe a project where you took the lead in implementing a new strategy or process, driving positive change within your team or organization."
+15,"Describe a project where you took the lead in implementing a new strategy or process, driving positive change within your team or organization.",54,0.71,Tell me about a project you initiated or led that had a positive impact on your team or organization.
+50,Share a story of a project where you collaborated with a cross-functional team to deliver exceptional results.,60,0.698,Share a story of a project where you led the team in developing and implementing a solution that resulted in significant cost savings or revenue growth.
+69,Can you give an example of a time when you facilitated a productive team meeting or discussion?,55,0.671,Can you give an example of a time when you had to resolve a disagreement or misunderstanding within a team?
+3,How do you handle changes or unexpected situations in the workplace?,51,0.67,Describe a situation where you had to adapt to a change in the work environment.
+51,Describe a situation where you had to adapt to a change in the work environment.,3,0.67,How do you handle changes or unexpected situations in the workplace?
+29,Do you have a good work ethic?,53,0.664,What do you think is an ideal work environment?
+53,What do you think is an ideal work environment?,29,0.664,Do you have a good work ethic?
+40,Can you give an example of a time when you demonstrated leadership skills?,74,0.661,Can you give an example of a time when you coached or mentored a colleague to help them achieve their goals?
+31,Tell me about a time when you successfully resolved a long-standing issue that had been impeding progress within your team or organization.,59,0.661,Tell me about a time when you had to resolve a conflict with a coworker or team member.
+42,How did you handle disagreements?,55,0.653,Can you give an example of a time when you had to resolve a disagreement or misunderstanding within a team?
+38,Can you describe a situation where you had to overcome a significant challenge in a team setting?,55,0.651,Can you give an example of a time when you had to resolve a disagreement or misunderstanding within a team?
+12,How do you respond to change?,3,0.65,How do you handle changes or unexpected situations in the workplace?
+4,What is your biggest achievement so far?,52,0.645,What are you most proud of?
+34,Can you give an example of a time when you led by example to promote a positive work culture or values?,40,0.645,Can you give an example of a time when you demonstrated leadership skills?
+52,What are you most proud of?,4,0.645,What is your biggest achievement so far?
+58,What has been your greatest failure?,4,0.635,What is your biggest achievement so far?
+57,Tell me about a time when you failed to meet a goal or objective. How did you handle it?,43,0.632,"Tell me about a time where you experienced difficulty while working on a project, how did you handle it?"
+66,How do you learn new skills?,32,0.624,How do you improve your knowledge?
+32,How do you improve your knowledge?,66,0.624,How do you learn new skills?
+70,Describe a project where you collaborated with stakeholders to define the problem and develop a solution that met everyone's needs.,15,0.623,"Describe a project where you took the lead in implementing a new strategy or process, driving positive change within your team or organization."
+65,Can you give an example of a situation where you successfully motivated a disengaged team member to contribute effectively to a project?,74,0.619,Can you give an example of a time when you coached or mentored a colleague to help them achieve their goals?
+10,Can you give an example of a time when you successfully implemented a solution to improve a process or procedure?,26,0.611,Can you give an example of a time when you had to take the initiative to solve a problem without being asked?
+26,Can you give an example of a time when you had to take the initiative to solve a problem without being asked?,10,0.611,Can you give an example of a time when you successfully implemented a solution to improve a process or procedure?
+44,What makes you happy?,9,0.597,What motivates you?
+35,"Describe a project where you encouraged open communication and feedback among team members, leading to improved collaboration and outcomes.",54,0.596,Tell me about a project you initiated or led that had a positive impact on your team or organization.
+19,Tell me about a time when you were not satisfied with your performance?,57,0.596,Tell me about a time when you failed to meet a goal or objective. How did you handle it?
+37,Can you describe your time management skills?,40,0.586,Can you give an example of a time when you demonstrated leadership skills?
+14,What is your greatest fear?,58,0.584,What has been your greatest failure?
+73,Tell me about a time when you proposed an innovative idea that significantly improved team efficiency or productivity.,10,0.581,Can you give an example of a time when you successfully implemented a solution to improve a process or procedure?
+30,Tell me about a time when you recognized and capitalized on the unique strengths of individual team members to achieve a common goal.,73,0.58,Tell me about a time when you proposed an innovative idea that significantly improved team efficiency or productivity.
+75,"Share a story of a time when you rallied your team during a crisis, fostering resilience and determination.",38,0.579,Can you describe a situation where you had to overcome a significant challenge in a team setting?
+11,Tell me about a time when you had to step into a role outside of your expertise to support the team's objectives.,59,0.579,Tell me about a time when you had to resolve a conflict with a coworker or team member.
+48,Describe a time when you proactively sought out opportunities to develop new skills or knowledge relevant to your role.,66,0.576,How do you learn new skills?
+39,What do you do to ensure that your task is completed effectively?,67,0.57,Describe a situation where you had to prioritize tasks under tight deadlines.
+67,Describe a situation where you had to prioritize tasks under tight deadlines.,39,0.57,What do you do to ensure that your task is completed effectively?
+5,Tell me about a time when you went above and beyond the call of duty to achieve a goal or deliver results.,11,0.57,Tell me about a time when you had to step into a role outside of your expertise to support the team's objectives.
+20,Can you give an example of a time when you successfully managed multiple competing priorities?,67,0.564,Describe a situation where you had to prioritize tasks under tight deadlines.
+25,Can you give an example of a time when you had to persuade others to adopt your ideas or proposals?,34,0.561,Can you give an example of a time when you led by example to promote a positive work culture or values?
+46,What are you passionate about?,52,0.56,What are you most proud of?
+41,What are the three things that are most important for you in a job?,47,0.558,What motivates you to perform at your best in the workplace?
+33,What are your hobbies?,46,0.558,What are you passionate about?
+13,What was the toughest decision you ever had to make?,57,0.548,Tell me about a time when you failed to meet a goal or objective. How did you handle it?
+16,Describe a situation where you identified a problem before it became significant. What steps did you take to address it?,31,0.541,Tell me about a time when you successfully resolved a long-standing issue that had been impeding progress within your team or organization.
+24,What makes you angry?,44,0.535,What makes you happy?
+56,How do you deal with criticism?,42,0.517,How did you handle disagreements?
+22,Why should a company hire you?,41,0.512,What are the three things that are most important for you in a job?
+49,Can you give an example of a situation where you leveraged technology or automation to streamline a process and increase efficiency?,10,0.508,Can you give an example of a time when you successfully implemented a solution to improve a process or procedure?
+63,What do you always regret? Or Do you have any regrets?,13,0.496,What was the toughest decision you ever had to make?
+6,Give me an example of your creativity.,25,0.489,Can you give an example of a time when you had to persuade others to adopt your ideas or proposals?
+1,Introduce yourself,76,0.466,Tell me about yourself
+76,Tell me about yourself,1,0.466,Introduce yourself
+62,Are you an organized person?,29,0.44,Do you have a good work ethic?
+23,Are you reliable? or Can I trust you with responsibilities?,29,0.433,Do you have a good work ethic?
+21,Where do you see yourself in the next 5 years?,76,0.432,Tell me about yourself
+17,How would you rate yourself on a scale of 1 to 10?,76,0.432,Tell me about yourself
+18,How do you handle stress and anxiety?,3,0.428,How do you handle changes or unexpected situations in the workplace?
+68,How quickly do you adapt to new technology?,66,0.421,How do you learn new skills?
+7,How do you work under pressure? Can you handle the pressure?,43,0.409,"Tell me about a time where you experienced difficulty while working on a project, how did you handle it?"
+36,Is there anything that makes you different from other candidates?,72,0.4,What are your weaknesses?
+27,Are you open to take risks? or Do you like experimenting?,14,0.348,What is your greatest fear?
+8,"If you won a Rs.10-crore lottery, would you still work?",29,0.304,Do you have a good work ethic?

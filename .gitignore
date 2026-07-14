@@ -3,12 +3,13 @@ recruitview_train/
 
 # Internal planning docs & working context — public roadmap lives in README
 CLAUDE.md
+AGENTS.md
 docs/*_plan.md
 .claude/
 
 # RecruitView-derived data — gated dataset (CC BY-NC 4.0); keep local, regenerate via src/
 data/recruitview_full.csv
-outputs/stage1/recruitview_with_set.csv
+data/recruitview_analysis.csv
 # Full manual gender-coding log (protected); published slim as data/gender_by_response.csv
 data/recruitview_gender.csv
 
@@ -17,9 +18,27 @@ scratch/
 archive/
 reviews/
 docs/
+experiments/
 
-# Fitted posterior objects — large binary, reproducible from src/stage1_fit.py
-outputs/stage1/idata/
+# Outputs: publish only the aggregate result tables + question metadata used by the notebook.
+# Ignore per-person BLUP scores (person-level, gated data) and unused / intermediate artifacts.
+outputs/stage2_human/human_person_scores_blup.csv
+outputs/stage3_teas/teas_person_scores_blup.csv
+outputs/stage1_overview/answer_trait_cosine.csv
+outputs/stage3_teas/teas_length_ladder.csv
+# Dedup review artifacts contain transcripts + scores (gated); keep local, never publish
+outputs/stage1_overview/duplicate_responses_review.csv
+outputs/stage1_overview/duplicate_responses_review.md
+
+# WIP / parked / superseded analysis scripts; publish when ready (not part of this release)
+src/stage2_answer_trait_cosine.py
+src/stage2_human_tables.py
+src/stage3_response_matrix.py
+src/stage3_teas_reml_crosscheck.py
+src/stage4_convergence.py
+src/stage4_distributions.py
+src/stage4_interscale_corr.py
+src/stage4_master_table.py
 
 # Python
 .venv/
